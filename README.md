@@ -65,7 +65,7 @@ First, we analyze the data of the different colleges and their stat for admissio
     6. gunicorn
 
     ```text
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 9. ### Configure your UserName and Email ID
